@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Summa() {
   return (
-    <div>summa</div>
+    <div>summa 123</div>
   )
 }
