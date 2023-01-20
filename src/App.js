@@ -1,12 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
-import Summa from './Summa'
+import UseRef from './Hooks/UseRef';
+import BasicRouter from './Router/BasicRouter';
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <Summa/>
-     
+      <BasicRouter></BasicRouter>
+      <UseRef></UseRef>
+    
     </div>
   );
 }
